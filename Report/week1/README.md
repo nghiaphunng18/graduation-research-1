@@ -8,8 +8,8 @@
   - [2.2. Tính linh hoạt và thay đổi của ngôn ngữ](#22-tính-linh-hoạt-và-thay-đổi-của-ngôn-ngữ)
   - [2.3. Hạn chế của dữ liệu và mô hình NLP](#23-hạn-chế-của-dữ-liệu-và-mô-hình-nlp)
 - [3.Các bước tiền xử lý văn bản](#3các-bước-tiền-xử-lý-văn-bản)
-  - [3.1.Tầm quan trọng của việc tiền xử lý văn bản](#31tầm-quan-trọng-của-việc-tiền-xử-lý-văn-bản)
-  - [3.2.Các bước tiền xử lý văn bản thông thường](#32các-bước-tiền-xử-lý-văn-bản-thông-thường)
+- [3.1.Tầm quan trọng của việc tiền xử lý văn bản](#31tầm-quan-trọng-của-việc-tiền-xử-lý-văn-bản)
+- [3.2.Các bước tiền xử lý văn bản thông thường](#32các-bước-tiền-xử-lý-văn-bản-thông-thường)
 - [4.Biểu diễn văn bản phù hợp với máy tính](#4biểu-diễn-văn-bản-phù-hợp-với-máy-tính)
   - [4.1.Khái niệm](#41khái-niệm)
   - [4.2.Các phương pháp biểu diễn văn bản phổ biến](#42các-phương-pháp-biểu-diễn-văn-bản-phổ-biến)
@@ -201,4 +201,5 @@
   - Nhận diện ngôn ngữ chính xác cao với tập dữ liệu rộng lớn.
 
 # 6.Demo: xây dựng pipeline tiền xử lý văn bản đơn giản
+![alt text](demo.png)
 

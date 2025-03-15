@@ -1,4 +1,3 @@
-# [Mục lục](#muc-luc)
 - [1.Giới thiệu chung về NLP](#1giới-thiệu-chung-về-nlp)
   - [1.1.Khái niệm cơ bản về NLP](#11khái-niệm-cơ-bản-về-nlp)
   - [1.2. Tại sao NLP quan trọng?](#12-tại-sao-nlp-quan-trọng)

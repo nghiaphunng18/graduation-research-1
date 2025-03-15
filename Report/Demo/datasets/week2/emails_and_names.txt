@@ -1,0 +1,10 @@
+Hôm qua, tôi nhận được email từ Nguyễn Văn A nguyenvana@example.com về dự án NLP.
+Sau đó, tôi cũng liên hệ với Trần Thị B qua email tranthib@example.net để trao đổi thêm.
+Ngoài ra, chúng tôi có một chuyên gia tư vấn là Lê Văn C (levanc@company.org),
+người đã gửi báo cáo qua email levanc@company.org vào sáng nay.
+
+Danh sách các thành viên trong nhóm:
+1. Phạm Minh D - pham.minh.d@example.com
+2. Hoàng Văn E - hoangvane@example.edu.vn
+3. Nguyễn Thị F - nguyenthi.f123@research.ac.vn
+4. Lê Thị G - g.lethi@company.co.uk

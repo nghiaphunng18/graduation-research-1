@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+spacy
+gensim
+transformers
+tensorflow
+torch
+underthesea
+sentencepiece 
